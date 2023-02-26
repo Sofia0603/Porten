@@ -183,7 +183,7 @@ body{
 
 /* header-promo */
 .header-promo{
-    background-image: url(/img/bg-promo.png);
+    background-image: url(../img/bg-promo.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
